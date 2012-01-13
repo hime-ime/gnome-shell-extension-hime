@@ -7,3 +7,8 @@ function init() {
     StatusIconDispatcher.STANDARD_TRAY_ICON_IMPLEMENTATIONS['hime'] = 'hime';
 }
 
+function enable() {
+}
+
+function disable() {
+}
